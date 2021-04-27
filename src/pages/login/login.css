@@ -1,0 +1,30 @@
+.title-login {
+    width: 100%;
+    height: 50px;
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+.myForm{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.container-form {
+    height: 400px;
+    margin: 80px 0;
+}
+
+.container-input {
+    width: 100%;
+    margin: 30px 0;
+}
+
+.input-form {
+    width: 100%;
+}
+
+.button-form {
+    margin: auto;
+}
